@@ -1,1 +1,1 @@
-"Arquivo.py"
+print("Arquivo.py")
